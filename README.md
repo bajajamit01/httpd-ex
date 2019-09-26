@@ -1,4 +1,4 @@
-Bit: 0
+Bit: 1
 # Apache HTTP Server (httpd) S2I Sample Application
 
 This is a very basic sample application repository that can be built and deployed
